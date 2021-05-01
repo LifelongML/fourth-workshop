@@ -16,7 +16,7 @@ permalink: /speakers/
     <tr>
       <td style="text-align: center"><img class="centered-and-cropped" width="150" height="150" src="https://www.microsoft.com/en-us/research/wp-content/uploads/2016/06/avatar_user__1465465992-360x360.jpg" alt="Katja Hofmann"></td>
       <td style="text-align: center"><img class="centered-and-cropped" width="150" height="150" src="https://mila.quebec/wp-content/uploads/2019/10/irina-rish.jpg" alt="Irina Rish"></td>
-      <td style="text-align: center"><img class="centered-and-cropped" width="150" height="150" src="/assets/images/jurgen.jpg" alt="Juergen Schmidhuber"></td>
+      <td style="text-align: center"><img class="centered-and-cropped" width="150" height="150" src="/fourth-workshop/assets/images/jurgen.jpg" alt="Juergen Schmidhuber"></td>
     </tr>
     <tr>
       <td style="text-align: center"><a href="https://www.microsoft.com/en-us/research/people/kahofman/"><strong>Katja Hofmann</strong></a></td>
@@ -45,7 +45,7 @@ permalink: /speakers/
   </thead>
   <tbody>
     <tr>
-      <td style="text-align: center"><img class="centered-and-cropped" width="150" height="150" src="/assets/images/sutton.jpg" alt="Richard Sutton"></td>
+      <td style="text-align: center"><img class="centered-and-cropped" width="150" height="150" src="/fourth-workshop/assets/images/sutton.jpg" alt="Richard Sutton"></td>
       <td style="text-align: center"><img class="centered-and-cropped" width="150" height="150" src="https://talukdar.net/photos/ppt_cropped.jpg" alt="Partha Pratim Talukdar"></td>
     </tr>
     <tr>
