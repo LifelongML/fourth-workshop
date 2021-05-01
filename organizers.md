@@ -15,10 +15,10 @@ permalink: /organizers/
   </thead>
   <tbody>
     <tr>
-      <td style="text-align: center"><img class="centered-and-cropped" width="150" height="150" src="/assets/images/shagun.jpg" alt="Shagun Sodhani"></td>
-      <td style="text-align: center"><img class="centered-and-cropped" width="150" height="150" src="/assets/images/sarath.jpg" alt="Sarath Chandar"></td>
-      <td style="text-align: center"><img class="centered-and-cropped" width="150" height="150" src="/assets/images/balaraman.jpg" alt="Balaraman Ravindran"></td>
-      <td style="text-align: center"><img class="centered-and-cropped" width="150" height="150" src="/assets/images/doina.jpg" alt="Doina Precup"></td>
+      <td style="text-align: center"><img class="centered-and-cropped" width="150" height="150" src="/fourth-workshop/assets/images/shagun.jpg" alt="Shagun Sodhani"></td>
+      <td style="text-align: center"><img class="centered-and-cropped" width="150" height="150" src="/fourth-workshop/assets/images/sarath.jpg" alt="Sarath Chandar"></td>
+      <td style="text-align: center"><img class="centered-and-cropped" width="150" height="150" src="/fourth-workshop/assets/images/balaraman.jpg" alt="Balaraman Ravindran"></td>
+      <td style="text-align: center"><img class="centered-and-cropped" width="150" height="150" src="/fourth-workshop/assets/images/doina.jpg" alt="Doina Precup"></td>
     </tr>
     <tr>
       <td style="text-align: center"><a href="https://shagunsodhani.com/"><strong>Shagun Sodhani</strong></a></td>
